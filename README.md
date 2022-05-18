@@ -59,6 +59,27 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
+## Completed Tasks
+- Create Laravel demo for order management system.
+- Customers should be able to view a list of products.
+- Customer should be choose color or size attribute of products
+- Customers should be able to add multiple products in the cart with color or size.
+
+# How to Run the project
+* Enter the following commend *
+ `php artisan serve `
+ 
+ ## Project Demo
+ 
+ ### Login And Registration
+ ![1](https://user-images.githubusercontent.com/103185719/169069906-a7066458-1301-4aae-9276-e496b596f372.jpg)
+
+### Color Module
+![2](https://user-images.githubusercontent.com/103185719/169069973-02d33ecf-973f-4354-ad54-26f76f4b7b44.jpg)
+
+### Size Module
+![3](https://user-images.githubusercontent.com/103185719/169070019-841c3efe-7943-471f-aff0-eade2424db42.jpg)
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
