@@ -66,6 +66,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 - Customers should be able to add multiple products in the cart with color or size.
 
 # How to Run the project
+Clone the project as below
+` git clone https://github.com/prakshkrr/Order-Management-System.git `
+
 * Enter the following commend *
  `php artisan serve `
  
